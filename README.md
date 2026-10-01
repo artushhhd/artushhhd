@@ -4,9 +4,9 @@
 
 **PHP • Laravel • React • Next.js • JavaScript • MySQL**
 
-I build full-stack web applications with Laravel and React, focusing on REST APIs, authentication and authorization, relational databases, and frontend/backend integration.
+I build full-stack web applications with Laravel and React, with a focus on REST APIs, authentication and authorization, relational databases, and reliable frontend/backend integration.
 
-## Featured Project
+## Featured Projects
 
 ### JobCenter
 
@@ -16,10 +16,10 @@ A full-stack job board built with Laravel and Next.js.
 - Laravel 13 REST API
 - Sanctum authentication
 - Policies and ownership authorization
-- Request validation
+- Form Request validation
 - Eloquent ORM
 - Pagination and filtering
-- Private CV file storage
+- Private CV storage
 - PHPUnit tests
 
 **Frontend**
@@ -36,7 +36,7 @@ A full-stack job board built with Laravel and Next.js.
 
 ### Course Platform
 
-A full-stack course platform with authentication, role-based access control, course management, and moderation features.
+A full-stack learning platform with authentication, role-based access control, course management, and moderation features.
 
 - Laravel 13 REST API
 - Role-based access control
@@ -75,4 +75,4 @@ A full-stack course platform with authentication, role-based access control, cou
 
 ---
 
-*Building practical applications and improving as a software engineer.*
+*Building practical applications, learning continuously, and growing as a software engineer.*
