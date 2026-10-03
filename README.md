@@ -43,4 +43,4 @@ Full-stack learning platform with RBAC, course management, moderation, media upl
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/artush-d-7203b3436/) · [Email](mailto:adimu3684@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/artush-d-7203b3436/) · email:adimu3684@gmail.com
