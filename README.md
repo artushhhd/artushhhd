@@ -1,16 +1,18 @@
 # Artush Dimu
 
-### Junior Full-Stack Developer
+### Full-Stack Developer · PHP / Laravel / React
 
-**PHP • Laravel • React • Next.js • JavaScript • MySQL**
+I build production-oriented web applications with **Laravel, React, and Next.js**, focusing on clean API design, authentication, authorization, database architecture, and reliable frontend/backend integration.
 
-I build full-stack web applications with Laravel and React, with a focus on REST APIs, authentication and authorization, relational databases, and reliable frontend/backend integration.
+**Based in Yerevan, Armenia · Open to junior developer opportunities**
 
-## Featured Projects
+---
+
+## Featured Project
 
 ### JobCenter
 
-A full-stack job board built with Laravel and Next.js.
+A full-stack job platform designed around real-world backend and frontend concerns.
 
 **Backend**
 - Laravel 13 REST API
@@ -20,59 +22,61 @@ A full-stack job board built with Laravel and Next.js.
 - Eloquent ORM
 - Pagination and filtering
 - Private CV storage
-- PHPUnit tests
+- PHPUnit feature tests
 
 **Frontend**
 - Next.js 16
 - React 19
-- Authentication flow
-- Protected pages
+- Protected routes and authentication flow
 - REST API integration
+- Server/client data handling
 
-**Repositories:**  
-[Backend](https://github.com/artushhhd/backend-JobCenter) • [Frontend](https://github.com/artushhhd/frontend-JobCenter)
+**Code:** [Backend](https://github.com/artushhhd/backend-JobCenter) · [Frontend](https://github.com/artushhhd/frontend-JobCenter)
 
 ---
 
+## Other Project
+
 ### Course Platform
 
-A full-stack learning platform with authentication, role-based access control, course management, and moderation features.
+A full-stack learning platform with role-based access control, course management, moderation, media uploads, likes, comments, and authentication.
 
-- Laravel 13 REST API
-- Role-based access control
-- Policies and server-side authorization
-- Course management
-- Media uploads
-- Likes and comments
-- Pagination
-- Next.js 16 + React 19 frontend
+**Code:** [Backend](https://github.com/artushhhd/course-platform-backend) · [Frontend](https://github.com/artushhhd/course-platform-frontend)
 
-**Repositories:**  
-[Backend](https://github.com/artushhhd/course-platform-backend) • [Frontend](https://github.com/artushhhd/course-platform-frontend)
+---
 
-## Tech Stack
+## Technical Stack
 
-**Backend:** PHP, Laravel, REST API, Sanctum, Eloquent  
-**Frontend:** JavaScript, React, Next.js, Tailwind CSS  
-**Database:** MySQL, SQLite  
-**Testing:** PHPUnit  
-**Tools:** Git, GitHub, Composer, npm
+| Area | Technologies |
+|---|---|
+| Backend | PHP 8.3, Laravel 13, REST API, Sanctum |
+| Frontend | JavaScript, React, Next.js, Tailwind CSS |
+| Database | MySQL, SQLite, Eloquent ORM |
+| Testing | PHPUnit |
+| Tools | Git, GitHub, Composer, npm |
+
+---
 
 ## Engineering Focus
 
-- REST API design
-- Authentication and authorization
+- REST API architecture
+- Authentication & authorization
 - Role-based access control
-- Database design and Eloquent ORM
-- Input validation and API error handling
+- Database design and ORM
+- Validation and API error handling
+- Secure resource ownership
 - Frontend/backend integration
-- Testing and maintainable code
+- Automated testing
+- Maintainable, readable code
 
-## Contact
+---
+
+## Connect
 
 - **LinkedIn:** [linkedin.com/in/artush-d-7203b3436](https://www.linkedin.com/in/artush-d-7203b3436/)
+- **GitHub:** [github.com/artushhhd](https://github.com/artushhhd)
 - **Email:** [adimu3684@gmail.com](mailto:adimu3684@gmail.com)
 
 ---
 
-*Building practical applications, learning continuously, and growing as a software engineer.*
+> Building practical software, improving every iteration, and growing as an engineer.
