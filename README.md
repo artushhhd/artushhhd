@@ -1,8 +1,10 @@
 # Artush Dimu
 
-### Full-Stack Developer · PHP / Laravel / React
+### Junior Full-Stack Developer
 
-I build full-stack web applications with **Laravel, React, and Next.js**, focusing on REST APIs, authentication, authorization, relational databases, and frontend/backend integration.
+PHP · Laravel · React · Next.js · JavaScript · MySQL
+
+I build full-stack web applications with **Laravel, React, and Next.js**, focusing on REST APIs, authentication and authorization, relational databases, and frontend/backend integration.
 
 **Yerevan, Armenia · Open to junior developer opportunities**
 
@@ -12,35 +14,58 @@ I build full-stack web applications with **Laravel, React, and Next.js**, focusi
 
 ### JobCenter
 
-A full-stack job platform built around a Laravel REST API and a Next.js client.
+A full-stack job platform built with **Laravel 13** and **Next.js**.
 
-**Focus:** API design, Sanctum authentication, Policies, Form Requests, ownership authorization, job search, pagination, comments, likes, and private CV storage.
+- REST API with Sanctum authentication
+- Policies and ownership authorization
+- Form Request validation
+- Job search, pagination, comments, and likes
+- Private CV storage
+- PHPUnit tests
 
 [Backend](https://github.com/artushhhd/backend-JobCenter) · [Frontend](https://github.com/artushhhd/frontend-JobCenter)
 
 ### Course Platform
 
-A full-stack learning platform focused on **RBAC and administration workflows**.
+A full-stack learning platform with role-based access control and administration workflows.
 
-**Focus:** course management, moderation, media uploads, roles, account management, likes, comments, and feature tests.
+- Laravel REST API
+- RBAC and server-side authorization
+- Course and media management
+- Likes and comments
+- Pagination
+- PHPUnit feature tests
+- Next.js + React frontend
 
 [Backend](https://github.com/artushhhd/course-platform-backend) · [Frontend](https://github.com/artushhhd/course-platform-frontend)
 
 ### BeeOnCode Internship
 
-Public repository for my internship work on a React/Fuse Admin application. The repository documents my internship implementation without presenting the provided admin template as my own product.
+React/Fuse Admin application developed during my BeeOnCode internship.
 
 [Repository](https://github.com/artushhhd/internship-BeeOnCode-admin)
 
 ---
 
-## Stack
+## Technical Stack
 
 **Backend:** PHP · Laravel · REST API · Sanctum · Eloquent  
 **Frontend:** JavaScript · React · Next.js · Tailwind CSS  
 **Database:** MySQL · SQLite  
 **Testing:** PHPUnit  
 **Tools:** Git · GitHub · Composer · npm
+
+---
+
+## Engineering Focus
+
+- REST API design
+- Authentication and authorization
+- Role-based access control
+- Database design and Eloquent ORM
+- Input validation and API error handling
+- Frontend/backend integration
+- Testing and maintainable code
 
 ---
 
