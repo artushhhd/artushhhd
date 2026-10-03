@@ -2,81 +2,45 @@
 
 ### Full-Stack Developer · PHP / Laravel / React
 
-I build production-oriented web applications with **Laravel, React, and Next.js**, focusing on clean API design, authentication, authorization, database architecture, and reliable frontend/backend integration.
+I build web applications with **Laravel, React, and Next.js**, focusing on REST APIs, authentication, authorization, databases, and frontend/backend integration.
 
-**Based in Yerevan, Armenia · Open to junior developer opportunities**
+**Yerevan, Armenia · Open to junior developer opportunities**
 
 ---
 
-## Featured Project
+## Projects
 
 ### JobCenter
 
-A full-stack job platform designed around real-world backend and frontend concerns.
+Full-stack job platform built with Laravel and Next.js.
 
-**Backend**
 - Laravel 13 REST API
-- Sanctum authentication
-- Policies and ownership authorization
-- Form Request validation
-- Eloquent ORM
-- Pagination and filtering
-- Private CV storage
-- PHPUnit feature tests
+- Sanctum authentication & authorization
+- Policies and validation
+- MySQL / Eloquent
+- Pagination & filtering
+- PHPUnit tests
 
-**Frontend**
-- Next.js 16
-- React 19
-- Protected routes and authentication flow
-- REST API integration
-- Server/client data handling
-
-**Code:** [Backend](https://github.com/artushhhd/backend-JobCenter) · [Frontend](https://github.com/artushhhd/frontend-JobCenter)
-
----
-
-## Other Project
+[Backend](https://github.com/artushhhd/backend-JobCenter) · [Frontend](https://github.com/artushhhd/frontend-JobCenter)
 
 ### Course Platform
 
-A full-stack learning platform with role-based access control, course management, moderation, media uploads, likes, comments, and authentication.
+Full-stack learning platform with RBAC, course management, moderation, media uploads, likes, and comments.
 
-**Code:** [Backend](https://github.com/artushhhd/course-platform-backend) · [Frontend](https://github.com/artushhhd/course-platform-frontend)
-
----
-
-## Technical Stack
-
-| Area | Technologies |
-|---|---|
-| Backend | PHP 8.3, Laravel 13, REST API, Sanctum |
-| Frontend | JavaScript, React, Next.js, Tailwind CSS |
-| Database | MySQL, SQLite, Eloquent ORM |
-| Testing | PHPUnit |
-| Tools | Git, GitHub, Composer, npm |
+[Backend](https://github.com/artushhhd/course-platform-backend) · [Frontend](https://github.com/artushhhd/course-platform-frontend)
 
 ---
 
-## Engineering Focus
+## Stack
 
-- REST API architecture
-- Authentication & authorization
-- Role-based access control
-- Database design and ORM
-- Validation and API error handling
-- Secure resource ownership
-- Frontend/backend integration
-- Automated testing
-- Maintainable, readable code
+**Backend:** PHP · Laravel · REST API · Sanctum  
+**Frontend:** JavaScript · React · Next.js  
+**Database:** MySQL · SQLite  
+**Testing:** PHPUnit  
+**Tools:** Git · GitHub · Composer · npm
 
 ---
 
-## Connect
+## Contact
 
-- **LinkedIn:** [linkedin.com/in/artush-d-7203b3436](https://www.linkedin.com/in/artush-d-7203b3436/)
-- **GitHub:** [github.com/artushhhd](https://github.com/artushhhd)
-- **Email:** [adimu3684@gmail.com](mailto:adimu3684@gmail.com)
-
----
-
-> Building practical software, improving every iteration, and growing as an engineer.
+[LinkedIn](https://www.linkedin.com/in/artush-d-7203b3436/) · [Email](mailto:adimu3684@gmail.com)
