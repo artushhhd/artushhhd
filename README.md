@@ -2,11 +2,11 @@
 
 ### Junior Full-Stack Developer
 
-PHP · Laravel · React · Next.js · JavaScript · MySQL
+**PHP · Laravel · React · Next.js · JavaScript · MySQL**
 
-I build full-stack web applications with **Laravel, React, and Next.js**, focusing on REST APIs, authentication and authorization, relational databases, and frontend/backend integration.
+I build full-stack web applications with a focus on **REST APIs, authentication, authorization, relational data, and frontend/backend integration**.
 
-**Yerevan, Armenia · Open to junior developer opportunities**
+**Yerevan, Armenia · Open to junior / trainee opportunities**
 
 ---
 
@@ -14,36 +14,39 @@ I build full-stack web applications with **Laravel, React, and Next.js**, focusi
 
 ### JobCenter
 
-A full-stack job platform built with **Laravel 13** and **Next.js**.
+Full-stack job platform built with **Laravel 13 + Next.js 16**.
 
-- REST API with Sanctum authentication
-- Policies and ownership authorization
-- Form Request validation
-- Job search, pagination, comments, and likes
+- REST API and Sanctum authentication
+- Policies, ownership checks, and Form Requests
+- Search, filtering, sorting, and pagination
+- Likes and comments
 - Private CV storage
-- PHPUnit tests
+- PHPUnit feature tests
+- Next.js App Router and centralized API client
 
-[Backend](https://github.com/artushhhd/backend-JobCenter) · [Frontend](https://github.com/artushhhd/frontend-JobCenter)
+Backend: https://github.com/artushhhd/backend-JobCenter  
+Frontend: https://github.com/artushhhd/frontend-JobCenter
 
 ### Course Platform
 
-A full-stack learning platform with role-based access control and administration workflows.
+Full-stack learning platform focused on **RBAC, moderation, administration, and API-driven architecture**.
 
-- Laravel REST API
-- RBAC and server-side authorization
+- Laravel 13 REST API
+- Four-role RBAC
+- Policy-based authorization
 - Course and media management
-- Likes and comments
-- Pagination
+- Likes, comments, and pagination
 - PHPUnit feature tests
 - Next.js + React frontend
 
-[Backend](https://github.com/artushhhd/course-platform-backend) · [Frontend](https://github.com/artushhhd/course-platform-frontend)
+Backend: https://github.com/artushhhd/course-platform-backend  
+Frontend: https://github.com/artushhhd/course-platform-frontend
 
 ### BeeOnCode Internship
 
-React/Fuse Admin application developed during my BeeOnCode internship.
+React/Fuse admin-panel work completed during my **BeeOnCode internship**, including Services management, validation, ordering, publishing, and REST API integration.
 
-[Repository](https://github.com/artushhhd/internship-BeeOnCode-admin)
+Repository: https://github.com/artushhhd/internship-BeeOnCode-admin
 
 ---
 
@@ -52,23 +55,23 @@ React/Fuse Admin application developed during my BeeOnCode internship.
 **Backend:** PHP · Laravel · REST API · Sanctum · Eloquent  
 **Frontend:** JavaScript · React · Next.js · Tailwind CSS  
 **Database:** MySQL · SQLite  
-**Testing:** PHPUnit  
+**Testing:** PHPUnit · Laravel Pint · ESLint  
 **Tools:** Git · GitHub · Composer · npm
-
----
 
 ## Engineering Focus
 
 - REST API design
 - Authentication and authorization
 - Role-based access control
-- Database design and Eloquent ORM
-- Input validation and API error handling
+- Resource ownership and Policies
+- Database relationships and Eloquent ORM
+- Form Request validation
+- API error handling
 - Frontend/backend integration
-- Testing and maintainable code
+- Feature testing
+- Maintainable project structure
 
 ---
 
-## Links
-
-[LinkedIn](https://www.linkedin.com/in/artush-d-7203b3436/) · [GitHub](https://github.com/artushhhd)
+LinkedIn: https://www.linkedin.com/in/artush-d-7203b3436/  
+GitHub: https://github.com/artushhhd
