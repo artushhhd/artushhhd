@@ -1,77 +1,70 @@
 # Artush Dimu
 
-### Junior Full-Stack Developer
+**Junior / Trainee Full-Stack Developer**  
+Yerevan, Armenia · Open to junior and trainee opportunities
 
-**PHP · Laravel · React · Next.js · JavaScript · MySQL**
+PHP · Laravel · JavaScript · React · Next.js · MySQL
 
-I build full-stack web applications with a focus on **REST APIs, authentication, authorization, relational data, and frontend/backend integration**.
-
-**Yerevan, Armenia · Open to junior / trainee opportunities**
-
----
+I build full-stack web applications with REST APIs, authentication and authorization, relational data, and frontend/backend integration. My portfolio focuses on practical application workflows and maintainable project structure.
 
 ## Featured Projects
 
-### JobCenter
+### JobCenter — Job Board
 
-Full-stack job platform built with **Laravel 13 + Next.js 16**.
+A Laravel API and Next.js frontend for a job-board application.
 
-- REST API and Sanctum authentication
-- Policies, ownership checks, and Form Requests
-- Search, filtering, sorting, and pagination
-- Likes and comments
-- Private CV storage
-- PHPUnit feature tests
-- Next.js App Router and centralized API client
+- Sanctum authentication and protected API workflows
+- Server-side authorization and request validation
+- Job search, filtering, sorting, and pagination
+- Likes, comments, and profile/CV management
+- Feature tests and centralized frontend API communication
 
-Backend: https://github.com/artushhhd/backend-JobCenter  
-Frontend: https://github.com/artushhhd/frontend-JobCenter
+**Repositories:** [Backend](https://github.com/artushhhd/backend-JobCenter) · [Frontend](https://github.com/artushhhd/frontend-JobCenter)
 
-### Course Platform
+### Course Platform — Learning Platform
 
-Full-stack learning platform focused on **RBAC, moderation, administration, and API-driven architecture**.
+A full-stack course platform centered on role-based access, moderation, and course management.
 
-- Laravel 13 REST API
-- Four-role RBAC
-- Policy-based authorization
-- Course and media management
-- Likes, comments, and pagination
-- PHPUnit feature tests
-- Next.js + React frontend
+- Laravel REST API and Sanctum authentication
+- Role-based access control and policy-based authorization
+- Course workflows, likes, comments, and pagination
+- Administrative workflows and image uploads
+- Next.js frontend with centralized API communication
 
-Backend: https://github.com/artushhhd/course-platform-backend  
-Frontend: https://github.com/artushhhd/course-platform-frontend
+**Repositories:** [Backend](https://github.com/artushhhd/course-platform-backend) · [Frontend](https://github.com/artushhhd/course-platform-frontend)
 
-### BeeOnCode Internship
+### BeeOnCode Internship — Admin Panel
 
-React/Fuse admin-panel work completed during my **BeeOnCode internship**, including Services management, validation, ordering, publishing, and REST API integration.
+Internship work in an existing React/Fuse admin application, focused on service-management workflows and REST API integration.
 
-Repository: https://github.com/artushhhd/internship-BeeOnCode-admin
+- Create, edit, and delete services
+- Publish/unpublish and ordering workflows
+- Form validation and API integration
 
----
+**Repository:** [internship-BeeOnCode-admin](https://github.com/artushhhd/internship-BeeOnCode-admin)
 
-## Technical Stack
+## Technical Skills
 
-**Backend:** PHP · Laravel · REST API · Sanctum · Eloquent  
-**Frontend:** JavaScript · React · Next.js · Tailwind CSS  
-**Database:** MySQL · SQLite  
-**Testing:** PHPUnit · Laravel Pint · ESLint  
-**Tools:** Git · GitHub · Composer · npm
+| Area | Technologies |
+|---|---|
+| Backend | PHP, Laravel, REST APIs, Sanctum, Eloquent ORM |
+| Frontend | JavaScript, React, Next.js, Tailwind CSS |
+| Data | MySQL, SQLite, relational modeling |
+| Quality | PHPUnit, Laravel Pint, ESLint |
+| Tools | Git, GitHub, Composer, npm |
 
-## Engineering Focus
+## Engineering Interests
 
-- REST API design
-- Authentication and authorization
+- API design and consistent error handling
+- Authentication, authorization, and resource ownership
 - Role-based access control
-- Resource ownership and Policies
-- Database relationships and Eloquent ORM
-- Form Request validation
-- API error handling
+- Database relationships and validation
 - Frontend/backend integration
-- Feature testing
-- Maintainable project structure
+- Automated feature testing
 
----
+## Contact
 
-LinkedIn: https://www.linkedin.com/in/artush-d-7203b3436/  
-GitHub: https://github.com/artushhhd
+- [LinkedIn](https://www.linkedin.com/in/artush-d-7203b3436/)
+- [GitHub repositories](https://github.com/artushhhd?tab=repositories)
+
+*Project descriptions reflect portfolio and internship work; check each repository for its current implementation and setup instructions.*
